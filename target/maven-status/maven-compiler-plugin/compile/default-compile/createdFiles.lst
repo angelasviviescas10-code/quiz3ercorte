@@ -1,0 +1,12 @@
+com\quiz_3ercorte\app\entidad\Asociaciones.class
+com\quiz_3ercorte\app\entidad\Club.class
+com\quiz_3ercorte\app\entidad\Entrenadores.class
+com\quiz_3ercorte\app\repositorio\EntrenadorRepository.class
+com\quiz_3ercorte\app\Quiz3ercorteApplication.class
+com\quiz_3ercorte\app\controlador\ClubController.class
+com\quiz_3ercorte\app\repositorio\CompeticionesRepository.class
+com\quiz_3ercorte\app\entidad\Competiciones.class
+com\quiz_3ercorte\app\repositorio\ClubRepository.class
+com\quiz_3ercorte\app\repositorio\JugadoresRepository.class
+com\quiz_3ercorte\app\entidad\Jugadores.class
+com\quiz_3ercorte\app\repositorio\AsociacionesRepository.class
